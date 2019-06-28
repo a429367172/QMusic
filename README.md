@@ -21,3 +21,6 @@ d.执行mount /dev/sda /mnt/usb进行挂载
 ### 6.运行程序
 chmod +x QMusic  
 ./QMusic  
+
+## 结果
+![image](https://github.com/a429367172/QMusic/blob/master/demo/demo.png)
