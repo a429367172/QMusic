@@ -15,9 +15,9 @@
 ### 4.拷贝QMusic和images文件夹到ARM板上
 ### 5.U盘挂载
 a.插入U盘  
-b.执行fdisk -l命令，查看U盘设备，假设为/dev/sda
-c.执行mkdir /mnt/usb创建U盘挂载点
-d.执行mount /dev/sda /mnt/usb进行挂载
+b.执行fdisk -l命令，查看U盘设备，假设为/dev/sda  
+c.执行mkdir /mnt/usb创建U盘挂载点  
+d.执行mount /dev/sda /mnt/usb进行挂载  
 ### 6.运行程序
-chmod +x QMusic
-./QMusic
+chmod +x QMusic  
+./QMusic  
